@@ -2,6 +2,7 @@
 /shelf/
 /workspace.xml
 
+# Intellij
 .idea/
 *.iml
 out/
